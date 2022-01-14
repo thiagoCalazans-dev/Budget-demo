@@ -1,0 +1,13 @@
+{
+    "funcao": [
+        {
+            "id": 1,
+            "descricao": "teste1"
+        },
+        {
+            "id": 2,
+            "descricao": "teste2"
+        }
+    ],
+    "subfuncao": []
+}
