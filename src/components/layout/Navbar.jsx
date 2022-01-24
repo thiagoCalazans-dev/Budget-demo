@@ -20,7 +20,7 @@ export default function Navbar() {
     <header>
       <AppBar position="static">
         <Toolbar>
-          <LinkButton to="./" text={<HomeIcon color="inherit"/>}/>
+          <LinkButton to="./" variant="contained" color="secondary" icon={<HomeIcon color="action"/>}/>
           <NavButton nomeBotao="Orçamento" itens={orcamentoItens} />
           <NavButton nomeBotao="Cadastro" itens={cadastroItens} />
         </Toolbar>
